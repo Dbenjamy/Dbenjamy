@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Dbenjamy
+- 👀 I'm a Computer Science student at BYU-Idaho in the United States.
+- 🌱 I’m specializing in Machine Learning and taking additional courses in functional
+     to broaden my understaning of code.
+- 💞️ For now I am interested in vr and machine learning, not nessesarily at the same time.
+- 📫 For now you can reach me at my email ben.yj.davis.misc@gmail.com. I don't check it
+     to often but I will see it eventually.
+
+<!---
+Dbenjamy/Dbenjamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
