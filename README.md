@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Dbenjamy
 - 👀 I'm a Computer Science student at BYU-Idaho in the United States.
-- 🌱 I’m specializing in Machine Learning and taking additional courses in functional
-     to broaden my understaning of code.
-- 💞️ For now I am interested in vr and machine learning, not nessesarily at the same time.
-- 📫 For now you can reach me at my email ben.yj.davis.misc@gmail.com. I don't check it
+- I’m specializing in Machine Learning and taking additional courses in functional
+  to broaden my understaning of code.
+- For now I am interested in machine learning and vr, not nessesarily at the same time.
+- For now you can reach me at my email ben.yj.davis.misc@gmail.com. I don't check it
      to often but I will see it eventually.
 
 <!---
