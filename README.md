@@ -1,4 +1,4 @@
-- 👀 I'm a Computer Science student at BYU-Idaho in the United States.
+- I'm a Computer Science student at BYU-Idaho in the United States.
 - I’m specializing in Machine Learning and taking additional courses in functional
   to broaden my understaning of code.
 - For now I am interested in machine learning and vr, not nessesarily at the same time.
