@@ -6,8 +6,9 @@ Contact Info:
 - Email: dav19018@byui.edu
 
 ## Coursework
-- I have completed coursework in functional programming, object-oriented programming, and machine learning
-- I have also completed coursework in Linear Algebra, Calculus, and Discrete Mathmatics
+At BYU-Idaho, I have completed coursework in:
+- Functional programming, object-oriented programming, and machine learning
+- Linear Algebra, Calculus, and Discrete Mathmatics
 
 ## Personal Projects
 ### **Onion Task**
