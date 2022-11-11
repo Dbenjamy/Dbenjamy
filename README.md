@@ -7,7 +7,7 @@ Contact Info:
 
 ## Coursework
 At BYU-Idaho, I have completed coursework in:
-- Functional programming, object-oriented programming, and machine learning
+- Machine learning, functional programming, and object-oriented programming
 - Linear Algebra, Calculus, and Discrete Mathmatics
 
 ## Personal Projects
