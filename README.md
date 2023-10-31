@@ -10,9 +10,9 @@ At BYU-Idaho, I have completed coursework in:
 - Machine learning, functional programming, and object-oriented programming
 - Linear Algebra, Calculus, and Discrete Mathmatics
 
-## Personal Projects
-### **Onion Task**
-The largest project I have worked on so far is [Onion Task](https://github.com/garrettstanger/OnionTask) as the Team Lead.
+## Acedemic Projects
+### **Workflow Application**
+The largest acedemic project I have worked on so far is [Onion Task](https://github.com/garrettstanger/OnionTask) as the Team Lead.
 - Onion Task is a web app written in React that allows users to organize projects and tasks with hierarchical structure.
 ---
 ### **Qualia (_Linux From Scratch_)**
