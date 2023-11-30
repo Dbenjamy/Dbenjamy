@@ -1,4 +1,4 @@
-## Benjamin Davis - Computer Science Major
+## Benjamin Davis - Bachelor of Computer Science
 I'm Benjamin Davis, a Computer Science student at Brigham Young University - Idaho specializing in Machine Learning. I am currently looking for roles in involving developement of machine learning models and software developement in general.
 
 Contact Info:
