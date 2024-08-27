@@ -11,8 +11,12 @@ At BYU-Idaho, I have completed coursework in:
 - Linear Algebra, Calculus, and Discrete Mathmatics
 
 ## Acedemic Projects
+### **Earthquake Prediction CNN - Senior Capstone**
+- Collected 3 years of data on planetary bodies through the Horizons API
+- Mapped planetary data to model gravitational force across 40,000 locations on Earth
+
 ### **Workflow Application**
-The largest acedemic project I have worked on so far is [Onion Task](https://github.com/garrettstanger/OnionTask) as the Team Lead.
+I worked on [Onion Task](https://github.com/garrettstanger/OnionTask) as the Team Lead in an acedemic setting.
 - Onion Task is a web app written in React that allows users to organize projects and tasks with hierarchical structure.
 ---
 ### **Qualia (_Linux From Scratch_)**
