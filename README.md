@@ -1,5 +1,5 @@
 ## Benjamin Davis - Bachelor of Computer Science
-I'm Benjamin Davis, a Computer Science student at Brigham Young University - Idaho specializing in Machine Learning. I am currently looking for roles in involving developement of machine learning models and software developement in general.
+I'm Benjamin Davis, a Computer Science student at Brigham Young University - Idaho specializing in Machine Learning. I have a particular intrest in convolutional neural networks and hope to work with them throughout my career.
 
 Contact Info:
 - [LinkedIn](https://www.linkedin.com/in/ben-yj-davis/)
