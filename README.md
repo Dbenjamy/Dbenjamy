@@ -8,26 +8,16 @@ Contact Info:
 ## Coursework
 At BYU-Idaho, I have completed coursework in:
 - Machine learning, functional programming, and object-oriented programming
-- Linear Algebra, Calculus, and Discrete Mathmatics
+- Linear Algebra, Multivariable Calculus, and Discrete Mathmatics
 
-## Acedemic Projects
-### **Earthquake Prediction CNN - Senior Capstone**
-- Collected 3 years of data on planetary bodies through the Horizons API
-- Mapped planetary data to model gravitational force across 40,000 locations on Earth
-
-### **Workflow Application**
-I worked on [Onion Task](https://github.com/garrettstanger/OnionTask) as the Team Lead in an acedemic setting.
+## Top Acedemic Projects
+### **[Earthquake Prediction CNN](https://github.com/Dbenjamy/Senior-Project/) - Senior Capstone**
+Modeled gravity to train a machine learning model to predict earthquakes.
+- Parsed 3 years of data from the Horizons API and USGS API for planetary and earthquake data, respectivly
+- Used planetary data to model gravitational force across 40,000 locations on Earth
+---
+### **[Workflow Application](https://github.com/garrettstanger/OnionTask)**
+I was the team lead creating workflow application in an acedemic setting.
 - Onion Task is a web app written in React that allows users to organize projects and tasks with hierarchical structure.
----
-### **Qualia (_Linux From Scratch_)**
-[Qualia](https://github.com/Dbenjamy/Qualia) is the start of my own Linux From Scratch system. My main goal with it was to become more familiar with the Linux operating system.
-- In the future I plan to make a stripped-down system that is able to fit on mobile devices, much like Android.
----
-### **SQL Practice**
-[SQL Practice](https://github.com/Dbenjamy/SQL-practice) is an implementation of SQLite (Python).
-- The project consists of my implementations of common functions such as making queries and fetching data
----
-I have other projects as well, though some are more complete than others.
-
 ## Goals
 I plan to work up to a PhD in Machine Learning/Data Science. For now, I would like to get started working with software and data. If you have any questions, feel free to reach out over LinkIn or by email.
