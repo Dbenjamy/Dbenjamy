@@ -20,4 +20,4 @@ Modeled gravity to train a machine learning model to predict earthquakes.
 I was the team lead creating workflow application in an acedemic setting.
 - Onion Task is a web app written in React that allows users to organize projects and tasks with hierarchical structure.
 ## Goals
-I plan to work up to a PhD in Machine Learning/Data Science. For now, I would like to get started working with software and data. If you have any questions, feel free to reach out over LinkIn or by email.
+I plan to work up to a PhD in Computer Science specializing in Machine Learning. If you have any questions, feel free to reach out over LinkIn or by email.
