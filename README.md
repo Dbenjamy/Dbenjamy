@@ -13,8 +13,8 @@ At BYU-Idaho, I have completed coursework in:
 ## Top Acedemic Projects
 ### **[Earthquake Prediction CNN](https://github.com/Dbenjamy/Senior-Project/) - Senior Capstone**
 Modeled gravity to train a machine learning model to predict earthquakes.
-- Parsed 3 years of data from the Horizons API and USGS API for planetary and earthquake data, respectivly
-- Used planetary data to model gravitational force across 40,000 locations on Earth
+- Collected 3 years of data on planetary bodies through the Horizons API
+- Mapped planetary data to model gravitational force across 288,000 locations on Earth
 ---
 ### **[Workflow Application](https://github.com/garrettstanger/OnionTask)**
 I was the team lead creating workflow application in an acedemic setting.
