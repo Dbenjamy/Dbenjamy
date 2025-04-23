@@ -15,10 +15,12 @@ Concentration in Machine Learning, additional certificate in Functional Programm
 
 ## Top Acedemic Projects
 ### **[Earthquake Prediction CNN](https://github.com/Dbenjamy/Senior-Project/) - Senior Capstone**
-Modeled gravity to train a machine learning model to predict earthquakes.
-- Collected 3 years of data on planetary bodies through the Horizons API
-- Implemented parralelism in Python to manipulate 78 GB of data
-- Mapped planetary data to model gravitational force across 288,000 locations on Earth
+Conducted back round research on earthquake analysis techniques to design final earthquake CNN
+model
+- Collected 3 years of data on planetary bodies through the Horizons' RESTful API
+- Cleaned and wrangled planet data via Pandas and Dask for feature engineering
+- Utilized Python's Multiprocessing and Numpy libraries for high performance when calculating gravitational forces across 288,000 locations on Earth
+- Engineered features in gravity data for training machine learning model
 ---
 ### **[Workflow Application](https://github.com/garrettstanger/OnionTask)**
 I was the team lead creating workflow application.
