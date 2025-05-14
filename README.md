@@ -21,7 +21,7 @@ Sep 2024 - Dec 2024
 - Integrated RIAK as a distributed database backend, handling data persistence and retrieval with robust fault-tolerance
 - Developed inter-service communication protocols and configured network infrastructure including firewall rules and port forwarding between services
 - Applied principles of concurrent and fault-tolerant system design native to the BEAM VM ecosystem
-
+---
 ### **[Modeling Gravity](https://github.com/Dbenjamy/Senior-Project/) - Senior Capstone**  
 Apr 2024 - Jul 2024  
 - Modeled gravitational force on the surface of the Earth
